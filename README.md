@@ -30,4 +30,4 @@ To run the app in the browser, you will need to launch the server, type:
 rails server
 ```
 
-And visit [*localhost:3000*] (http://localhost:3000/) to start using the app!
+And visit [*localhost:3000*](http://localhost:3000/) to start using the app!
