@@ -34,3 +34,12 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+storage
+vendor
+.browserslistrc
+.ruby-version
+babel.config.js
+Gemfile.lock
+package.json
+postcss.config.js
+yarn.lock
